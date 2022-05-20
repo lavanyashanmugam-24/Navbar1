@@ -34,19 +34,7 @@ class Crausoel1 extends Component{
                     <p></p>
                     </Carousel.Caption>
                 </Carousel.Item>
-                <Carousel.Item>
-                    <img
-                    className="d-block w-100"
-                    height="400"
-                    src="https://tse1.mm.bing.net/th?id=OIP.27VwwpTUNE6g3MlSBs8YtQHaDQ&pid=Api&P=0&w=401&h=176"
-                    alt="Third slide"
-                    />
-
-                    <Carousel.Caption>
-                    <h3></h3>
-                    <p></p>
-                    </Carousel.Caption>
-                </Carousel.Item>
+                
                 </Carousel>
         </>
         )
